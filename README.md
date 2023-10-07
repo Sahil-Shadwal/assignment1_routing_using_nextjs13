@@ -26,11 +26,13 @@
 
 **Ans:** *We first install every necessary package from react router dom, ofc after installing react router dom first. We initialize our app, and wrap every thing in <Router>,  <Routes> and then <Route>*
 
-![Screenshot 2023-10-07 180025.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6ccd8bf9-1652-4e9d-bb6e-77b334574681/e5a280e3-fefd-4091-8f67-eeeeeb4b9d8d/Screenshot_2023-10-07_180025.png)
+![Screenshot 2023-10-07 180025](https://github.com/Sahil-Shadwal/assignment1_routing_using_nextjs13/assets/119167601/08201f41-ce9e-4e08-8110-a2331415bbee)
+
 
 *And here is an example of nested dynamic routing and as you can see things get dicey pretty quick*
 
-![Screenshot 2023-10-07 180042.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6ccd8bf9-1652-4e9d-bb6e-77b334574681/8eec7ce1-13fa-4b32-8275-a688e93d246a/Screenshot_2023-10-07_180042.png)
+![Screenshot 2023-10-07 180042](https://github.com/Sahil-Shadwal/assignment1_routing_using_nextjs13/assets/119167601/222a6ac9-e5e3-4e62-b70a-56752694482e)
+
 
 *But in Next.js :-*
 
